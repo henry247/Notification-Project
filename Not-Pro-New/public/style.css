@@ -1,0 +1,28 @@
+nav,footer{
+    background:#34495e;
+}
+nav{
+   box-shadow: 1px 3px 10px grey;
+}
+.navbar #navbarNav .nav-link{
+    color: white;
+} 
+.navbar #navbarNav .nav-link:hover{
+    color: rgb(101, 199, 238);
+} 
+#defButton{
+    background: #34495e;
+    color: white;
+    width: 10rem;
+    border-radius: 20px;
+}
+#defButton:hover{
+    color: #34495e;
+    background-color: rgb(101, 199, 238);
+}
+.container .display-4{
+    color: rgb(101, 199, 238);
+}
+footer{
+    margin-top: 10rem;
+}
